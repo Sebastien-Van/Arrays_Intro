@@ -51,5 +51,4 @@ void printArray2D(int arr[][dim2], int size){
 
     }
 }
-void printArray3D(int arr[][dim2][dim3], int size);
-void printArray4D(int arr[][dim2][dim3][dim4], int size);
+
